@@ -1,7 +1,7 @@
 # Tidy-SMS-Docs
 
-- [Privacy]()
-- [Terms and Conditions]()
+- [Privacy](https://g-akshay.github.io/Tidy-SMS-Docs/Tidy_SMS_Privacy_Policy_Individual.html)
+- [Terms and Conditions](https://g-akshay.github.io/Tidy-SMS-Docs/Tidy_SMS_Terms_Conditions.html)
 
 ##### Tools
 
