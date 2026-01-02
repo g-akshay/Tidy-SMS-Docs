@@ -1,6 +1,6 @@
 # TERMS AND CONDITIONS FOR TIDY SMS
 
-**Effective Date:** December 27, 2025
+**Effective Date:** January 2, 2026
 
 ---
 
@@ -291,7 +291,7 @@ Nothing in these Terms creates a partnership, joint venture, agency, or employme
 
 ---
 
-**Last Updated:** December 27, 2025
+**Last Updated:** January 2, 2026
 
 **Developer:** Akshay Gundewar
 **Email:** gakshayapps@gmail.com

@@ -1,6 +1,6 @@
 # PRIVACY POLICY FOR TIDY SMS
 
-**Effective Date:** December 27, 2025
+**Effective Date:** January 2, 2026
 
 ---
 
@@ -26,6 +26,8 @@ I am an independent developer building Tidy SMS as a solo project. There is no c
 ## 3. WHAT INFORMATION WE COLLECT
 
 ### 3.1 Information You Provide
+
+**We use SEND_SMS and READ_SMS permissions to provide the core functionality of organizing and managing your messages.**
 
 When you use Tidy SMS, you grant permission to access:
 
@@ -103,7 +105,7 @@ I use Firebase by Google to understand how the app is used. Firebase collects an
 
 **Firebase does NOT collect:** Your SMS content, contacts, phone number, or personal data.
 
-Firebase may store data in Google's servers (including outside India). For details, see: https://policies.google.com/privacy
+Firebase may store data in Google's servers (including outside India). For details, see: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 **Opt Out:** Settings > About > Privacy Settings > Toggle off "Analytics Collection"
 
@@ -153,8 +155,8 @@ If any data is wrong or incomplete, you can ask me to fix it.
 - If you want to delete Tidy SMS data from your device, you can use Android’s built in option: go to Settings → Apps → Tidy SMS → Storage and tap Clear storage / Clear data. This removes Tidy SMS local databases, caches and settings from your phone.
 
 - Tidy SMS does not create or control your Google account backups. SMS and app backups stored in Google Drive are managed by Google’s Android backup system and your device settings. You can delete those backups at any time from Google Drive or your phone’s Backup settings.
-  ​
-  -Some minimal diagnostic data may be retained for up to 90 days where required for security, fraud prevention or legal reasons, after which it is deleted or irreversibly anonymised.
+
+- Some minimal diagnostic data may be retained for up to 90 days where required for security, fraud prevention or legal reasons, after which it is deleted or irreversibly anonymised.
 
 Note: Some data may be retained for legal reasons (e.g., crash reports up to 90 days per my policy).
 
